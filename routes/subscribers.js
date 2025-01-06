@@ -33,7 +33,7 @@ router.post('/', async (req, res) => {
 
 // Updating one
 router.patch('/:id', (req, res) => {
- 
+
 });
 
 // Deleting one
